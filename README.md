@@ -1,4 +1,4 @@
-https://github.com/Cesarleops/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg
+![my badge](https://github.com/Cesarleops/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
