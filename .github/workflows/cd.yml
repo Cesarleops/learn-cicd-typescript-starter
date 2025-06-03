@@ -20,6 +20,3 @@ jobs:
 
       - name: Build project
         run: npm run build
-
-      - name: Deploy to production
-        run: npm run deploy
